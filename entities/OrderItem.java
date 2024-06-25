@@ -1,6 +1,3 @@
-/*quantity integer
-price double
-subtotal double*/
 package entities;
 
 public class OrderItem {
