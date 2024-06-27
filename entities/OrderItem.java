@@ -5,6 +5,8 @@ public class OrderItem {
     private Double price;
     private Double subtotal;
 
+    private Product product;
+
     public OrderItem() {
     }
 

@@ -18,6 +18,8 @@ public class Order {
     private OrderStatus status;
 
     private List<OrderItem> itens = new ArrayList();
+    private Client client;
+    private OrderItem items;
 
     public Order() {
     }
